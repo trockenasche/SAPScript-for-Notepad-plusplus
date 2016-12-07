@@ -3,7 +3,7 @@ SAPScript syntax highlighting for Notepad++
 
 This is a syntax highlighting User Defined Language (UDL 2.1) for SAPScript \*.FOR files in Notepad++
 
-![SAPScript](SAPScript-npp.png)
+![SAPScript](SAPScript_npp.png)
 
 Features:
 * Highlights commandlines
