@@ -6,12 +6,14 @@ This is a syntax highlighting User Defined Language (UDL 2.1) for SAPScript \*.F
 ![SAPScript](SAPScript_npp.png)
 
 Features:
+
 * Highlights commandlines
 * Grouping of `IF` and `CASE` commands
 * Comments highlighting
 * Highlights text elements
 * Variable highlighting
 * Operators and values highlighting
+* WINDOW and ELEMENT highlighting
 
 ## How to get the SAPScript files?
 The SAP program `RSTXSCRP` can export and import SAPScript forms as FOR files.
